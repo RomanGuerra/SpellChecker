@@ -5,3 +5,4 @@ A Java application that checks the users spelling.
 * Implementing a Hash Table Data Structure
 * Creating a GUI
 * Designing a hash code to minimize collisions
+
